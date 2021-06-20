@@ -1,0 +1,111 @@
+
+*{
+    cursor: pointer;
+}
+body{
+    background-image: url("bg1.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-repeat: no-repeat;
+    background-position: all;
+    background-size: cover;
+    cursor: pointer;
+
+}
+
+     
+}
+/*.cbx{
+    width: 50px;
+    height: 180px;
+    background-color:rgba(253, 247, 197, 0.507);
+    display: block;
+    margin: 20px;
+}*/
+h4{
+    text-align: center;
+    padding: 30px;}
+ 
+
+#title{
+    color: #1B008D;
+    font-family: verdana;
+    text-align:center;
+    margin-top: 100px;
+    border: 0px;
+    border-style: solid;
+    font-weight: bold;
+    padding: 6px;
+    background: rgba(255,255,255,0.5);
+    display: block;
+   
+}
+
+
+.footer{
+    background-color: rgb(38, 38, 41);
+    margin-top: 250px;
+    color: rgba(236, 231, 231, 0.925);
+    text-align: center;
+    
+
+    
+}
+.footer .outer-footer{
+    background-color: rgb(3, 2, 2);
+    padding: 10px;   
+}
+
+.my a{
+    border: 0px solid;
+    padding: 4px;
+    margin: 5px;
+   
+}
+.my li a:hover{
+    
+    background: #8086FF;
+   
+}
+
+.item  {
+width: 300px;
+height: 300px;
+object-fit: cover;}
+
+.myimg{
+	width: 180px;
+	height: 180px;
+	margin-left:  140px;
+
+	/*background: #9BA6EA;*/
+    background: white;
+	margin-top: 40px;
+
+}
+.mytext {
+	margin-left:  120px;
+	margin-top: 20px;
+
+    
+}
+.mytext a {
+   color: white;
+   position: absolute;
+    text-decoration: none;
+    padding: 10px;
+   
+    
+}
+.mytext :hover{
+    border:1px solid none;
+    background: rgba(0,0,0,0.6);
+    padding: 10px;
+    color: white;
+    position: absolute;
+    
+}
+
+
+   
+ 
